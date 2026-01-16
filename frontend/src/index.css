@@ -44,3 +44,19 @@ a:hover {
 }
 
 
+#supportHero{
+  background-color: rgb(56, 126, 209);
+  color: white;
+}
+#supportWrapper {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 120px;
+}
+#supportWrapper a, #supportHero a{
+  color: white;
+}
+#supportWrapper1 input{
+  border-radius: 6px;
+  border-style: none;
+}
