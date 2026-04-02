@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.nav-link {
+  margin-left: 30px;
+}
+.navbar .nav-link {
+  color: #333;
+  font-weight: 500;
+}
+
+.navbar .nav-link:hover {
+  color: #387ed1;   /* Zerodha blue */
+}
+.btn-primary {
+  background-color: #387ed1;
+  border-color: #387ed1;
+}
+
+.btn-primary:hover {
+  background-color: #2962b8;
+  border-color: #2962b8;
+}
+a {
+  color: #387ed1;
+}
+
+a:hover {
+  color: #2962b8;
+}
+.border:hover {
+  border-color: #387ed1 !important;
+  transition: 0.3s;
+}
+
+
+#supportHero{
+  background-color: rgb(56, 126, 209);
+  color: white;
+}
+#supportWrapper {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 120px;
+}
+#supportWrapper a, #supportHero a{
+  color: white;
+}
+#supportWrapper1 input{
+  border-radius: 6px;
+  border-style: none;
+}
