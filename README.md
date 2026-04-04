@@ -1,6 +1,6 @@
 # Stock Trading Platform
 
-This is a full-stack stock trading platform inspired by Zerodha, built to simulate basic trading workflows such as portfolio tracking, watchlists, and data visualization.
+This is a full-stack stock trading platform inspired by Zerodha, built to simulate basic trading workflows such as holdings and positions tracking, watchlists, and data visualization.
 
 The project is structured into separate frontend, dashboard, and backend applications. The frontend handles the landing interface, the dashboard provides the main user interaction layer, and the backend manages APIs and database operations.
 
