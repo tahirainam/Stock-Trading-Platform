@@ -3,7 +3,7 @@ const express = require("express");
 const mongoose = require("mongoose");
 const {HoldingzModel} = require("./model/HoldingzModel");
 const {PositionzModel} = require("./model/PositionzModel");
-const {OrderModel} = require("./model/OrderModel");
+const {OrderModel} = require("./model/OrderzModel");
 
 const bodyParser = require("body-parser");
 const cors = require("cors");

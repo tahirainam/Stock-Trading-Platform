@@ -1,6 +1,6 @@
 const {Schema} = require("mongoose");
 
-const HoldingzSchema = new Schema({
+const OrderzSchema = new Schema({
     name: String,
     qty: Number,
     price: Number,
